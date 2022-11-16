@@ -1,6 +1,10 @@
 # Welcome to my profile
-
 Hello, I'm Riccardo Ramos
+
+![741051dc-5a0b-4d13-96a2-986ef853ab67](https://user-images.githubusercontent.com/106710934/202156585-685f6e4c-32a3-4775-b226-518410c9ea4f.jpg)
+
+Living in Goiás 🤠
+
 
 ## My hobbies
 
@@ -22,4 +26,3 @@ Hello, I'm Riccardo Ramos
 - Email ricardor.araujo67@gmail.com
 - GitHub @riccarditus
 - Twitter @riccarditus
-- Instagram @riccarditus
